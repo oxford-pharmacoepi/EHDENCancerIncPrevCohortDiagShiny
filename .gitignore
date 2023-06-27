@@ -1,0 +1,8 @@
+
+.Rproj.user/*
+data/PreMerged.RData
+CancerExtrapolationDiagnostics.dcf
+CodeToRun_local.R
+data/*
+.Rprofile
+.Rhistory

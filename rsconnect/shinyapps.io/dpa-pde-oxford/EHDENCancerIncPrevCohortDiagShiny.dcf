@@ -1,0 +1,13 @@
+name: EHDENCancerIncPrevCohortDiagShiny
+title: EHDENCancerIncPrevCohortDiagShiny
+username:
+account: dpa-pde-oxford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9371520
+bundleId: 7392833
+url: https://dpa-pde-oxford.shinyapps.io/EHDENCancerIncPrevCohortDiagShiny/
+when: 1687865264.66264
+lastSyncTime: 1687865264.66264
+asMultiple: FALSE
+asStatic: FALSE
